@@ -1,4 +1,4 @@
-# Developing a Neural Network Regression Model
+# EXP-1 Developing a Neural Network Regression Model
 
 ## AIM
 To develop a neural network regression model for the given dataset.
@@ -80,16 +80,24 @@ def train_model(monish_brain,X_train,y_train,criteria,optimizer,epochs=2000):
 ```
 ## Dataset Information
 
-<img width="352" height="758" alt="image" src="https://github.com/user-attachments/assets/96825e48-7668-4145-aa4f-adaf1098d0f9" />
+<img width="243" height="672" alt="image" src="https://github.com/user-attachments/assets/f835f242-8529-424b-b5b1-4eb5b64dc04b" />
 
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
-<img width="1061" height="676" alt="image" src="https://github.com/user-attachments/assets/b9da9f24-a673-49a9-906b-e10c531a2f27" />
+<img width="659" height="471" alt="image" src="https://github.com/user-attachments/assets/026cd633-2b1a-4f99-aea6-a254f0136aee" />
+
 
 ### New Sample Data Prediction
-<img width="1054" height="220" alt="image" src="https://github.com/user-attachments/assets/429b10dd-e02b-4eeb-adfa-468eebcb78c3" />
+<img width="778" height="115" alt="image" src="https://github.com/user-attachments/assets/124f27b8-255c-4a34-a0af-438d00b01982" />
 
 ## RESULT
 The neural network regression model was successfully trained and evaluated. The model demonstrated strong predictive performance on unseen data, with a low error rate.
+
+
+
+
+
+
+
